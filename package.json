@@ -1,0 +1,22 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "0.3.42",
+    "@langchain/openai": "0.4.4",
+    "dotenv": "16.4.7",
+    "langchain": "0.3.19"
+  },
+  "overrides": {
+    "@langchain/core": "0.3.42"
+  }
+}
